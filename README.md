@@ -1,16 +1,13 @@
-### Hi there 👋
+Hello, I'm Deepak 👋
 
-<!--
-**dword0/dword0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m just a random person on the internet who is facinated about how the machines are learning from data and improve their accuracy over time without being manually programmed to do so. 
 
-Here are some ideas to get you started:
+🚀 Python (libraries: NumPy, Pandas, Seaborn, SciKit-Learn, Matplotlib)
+🌕 Data Science,
+🌱 Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/deepak-m-a-495a53128/)
+                 [HackerRank](https://www.hackerrank.com/dword0)
+                 [Website](https://randomoneontheinternet.wordpress.com/)
+
+
