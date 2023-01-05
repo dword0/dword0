@@ -10,9 +10,9 @@ Hello, I'm Deepak 👋
 </h1>
 I’m just a random person on the internet who is facinated about how the machines are learning from data and improve their accuracy over time without being manually programmed to do so. 
 
-🚀 Python (libraries: NumPy, Pandas, Seaborn, SciKit-Learn, Matplotlib)
-🌕 Data Science,
-🌱 Machine Learning.
+<kbd>🚀 Python </kbd> (Libraries: <kbd> NumPy </kbd>, <kbd> Pandas </kbd>, <kbd> Seaborn </kbd>, <kbd> SciKit-Learn </kbd>, <kbd> Matplotlib </kbd>)</br>
+<kbd>🌕 Data Science </kbd></br>
+<kbd>🌱 Machine Learning </kbd>
 
 
 
