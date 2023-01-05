@@ -16,7 +16,7 @@ I’m just a random person on the internet who is facinated about how the machin
 
 
 
-📫 Reach me at: <br/>[LinkedIn](https://www.linkedin.com/in/deepak-m-a-495a53128/) <br/>
+📫 Reach me at: <br/>[LinkedIn](https://www.linkedin.com/in/deepak-m-a-495a53128/)<br/>
                  [HackerRank](https://www.hackerrank.com/dword0) <br/>
                  [Website](https://randomoneontheinternet.wordpress.com/)
 
